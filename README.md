@@ -15,7 +15,7 @@ I'm a **frontend developer** who enjoys building clean, functional, and user-fri
 
 ## Things I code with:
 
-![Tech Stack](https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,next,webpack,electron,py,cs,cpp,c,css,html,sass,docker,git)
+![Tech Stack](https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,next,webpack,electron,py,cpp,c,css,html,sass,docker,git)
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=BYevYX&show_icons=true&count_private=true&hide=prs&theme=radical" alt="My GitHub Stats" style="height: 150px; width: auto;"/>
